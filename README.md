@@ -1,2 +1,2 @@
 # Ultimata
-A self-directed homelab project meant as a learning sandbox environment across the fields of IT such as networking, virtualization, cloud, and cybersecurity.
+A self-directed homelab project meant as a learning sandbox environment comprising different bits of networking, virtualization, cloud, and cybersecurity.
